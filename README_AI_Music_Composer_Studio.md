@@ -1,24 +1,24 @@
-# 🎵 AI Music Composer Studio
+#  AI Music Composer Studio
 
 AI Music Composer Studio is an AI-powered music generation application that creates original melodies using Deep Learning and MIDI datasets. The project uses Python, TensorFlow, and Music21 to learn musical patterns from existing MIDI files and generate new compositions automatically. A Streamlit-based interface allows users to interact with the model and generate music easily.
 
 ---
 
-# 🚀 Features
+#  Features
 
-- 🎼 Train an AI model on MIDI music datasets
-- 🎵 Generate original melodies and musical sequences
-- 🤖 Deep Learning-based music composition using LSTM networks
-- 📂 Support for MIDI file processing
-- 🎹 Automatic music pattern learning
-- 🌐 Interactive Streamlit web interface
-- 💾 Save generated music as MIDI files
-- 📊 Data preprocessing and sequence generation
-- 🎶 Real-time AI music generation
+-  Train an AI model on MIDI music datasets
+-  Generate original melodies and musical sequences
+-  Deep Learning-based music composition using LSTM networks
+-  Support for MIDI file processing
+-  Automatic music pattern learning
+-  Interactive Streamlit web interface
+-  Save generated music as MIDI files
+-  Data preprocessing and sequence generation
+-  Real-time AI music generation
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python
 - TensorFlow / Keras
@@ -29,7 +29,7 @@ AI Music Composer Studio is an AI-powered music generation application that crea
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 AI-Music-Composer-Studio/
@@ -50,7 +50,7 @@ AI-Music-Composer-Studio/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ```bash
 git clone https://github.com/your-username/AI-Music-Composer-Studio.git
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ---
 
-# 📂 Dataset Preparation
+#  Dataset Preparation
 
 Place MIDI files inside the dataset folder and run:
 
@@ -76,7 +76,7 @@ notes.pkl
 
 ---
 
-# 🧠 Train the Model
+#  Train the Model
 
 ```bash
 python train.py
@@ -90,7 +90,7 @@ models/music_model.h5
 
 ---
 
-# 🎵 Generate Music
+#  Generate Music
 
 ```bash
 python generate_music.py
@@ -104,7 +104,7 @@ output/generated.mid
 
 ---
 
-# 🌐 Run the Application
+#  Run the Application
 
 ```bash
 streamlit run app.py
@@ -112,7 +112,7 @@ streamlit run app.py
 
 ---
 
-# 🎯 How It Works
+#  How It Works
 
 1. Collect MIDI files.
 2. Extract notes and chords using Music21.
@@ -124,7 +124,7 @@ streamlit run app.py
 
 ---
 
-# 📈 Future Enhancements
+#  Future Enhancements
 
 - Genre-based generation
 - Mood-based music creation
@@ -134,8 +134,8 @@ streamlit run app.py
 
 ---
 
-# 📜 License
+#  License
 
 MIT License
 
-⭐ Star this repository if you find it useful.
+ Star this repository if you find it useful.
