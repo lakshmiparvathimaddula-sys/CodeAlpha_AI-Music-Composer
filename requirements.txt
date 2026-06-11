@@ -1,0 +1,8 @@
+tensorflow
+music21
+numpy
+pandas
+matplotlib
+streamlit
+midi2audio
+pretty_midi

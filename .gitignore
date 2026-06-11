@@ -1,0 +1,10 @@
+venv/
+venv312/
+__pycache__/
+*.pyc
+
+# Generated files (optional)
+output/generated_music.mid
+
+# Model files (optional if very large)
+# models/music_model.keras
